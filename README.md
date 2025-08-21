@@ -40,34 +40,6 @@ Should execute quickly and efficiently.
 Code must remain clean and beginner-friendly.
 Designed for educational use and demonstrations.
 
-📊 Sample Output
-Waterfall Mode
-=== WATERFALL MODE ===
-Time: 0 hrs -> Predicted Temp: 25.00°C
-Time: 6 hrs -> Predicted Temp: 23.80°C
-Time: 12 hrs -> Predicted Temp: 24.20°C
-Time: 18 hrs -> Predicted Temp: 26.20°C
-Time: 24 hrs -> Predicted Temp: 29.80°C
-
-Iterative Mode
-=== ITERATIVE MODE ===
-Iteration 1:
-Time: 0 hrs -> Temp: 25.00°C
-Time: 12 hrs -> Temp: 24.20°C
-Time: 24 hrs -> Temp: 29.80°C
----
-
-
-Agile Mode
-=== AGILE MODE ===
-Sprint 1:
-Time: 0 hrs -> Temp: 25.00°C
-Time: 6 hrs -> Temp: 23.80°C
-Time: 12 hrs -> Temp: 24.20°C
-Time: 18 hrs -> Temp: 26.20°C
-Time: 24 hrs -> Temp: 29.80°C
----
-
 
 🚀 Future Enhancements
 Incorporate real-world weather data for improved realism.
